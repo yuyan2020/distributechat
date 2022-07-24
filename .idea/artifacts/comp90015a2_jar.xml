@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="comp90015a2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/comp90015a2_jar</output-path>
+    <root id="archive" name="comp90015a2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../project2ds/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="comp90015a2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../fastjson-1.2.58.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
